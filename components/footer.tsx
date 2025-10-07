@@ -14,7 +14,7 @@ export function Footer() {
               <div className="w-10 h-10 bg-accent flex items-center justify-center">
                 <span className="text-accent-foreground font-serif text-xl font-bold">R</span>
               </div>
-              <span className="font-serif text-lg font-semibold">Rénovation Premium</span>
+              <span className="font-serif text-lg font-semibold"> Ls Rénovation </span>
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed mb-6">
               Expert en rénovation intérieure haut de gamme depuis plus de 15 ans. Nous transformons vos espaces avec
@@ -81,9 +81,9 @@ export function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="mt-1 flex-shrink-0" />
                 <span className="text-primary-foreground/80 text-sm">
-                  123 Avenue de la Rénovation
+                  123 Rue d'Arras,
                   <br />
-                  75001 Paris, France
+                  59155 Faches-Thumesnil, France
                 </span>
               </li>
               <li className="flex items-center gap-3">
@@ -92,7 +92,7 @@ export function Footer() {
                   href="tel:+33123456789"
                   className="text-primary-foreground/80 hover:text-accent transition-colors text-sm"
                 >
-                  +33 1 23 45 67 89
+                 +33 60 44 21 828
                 </a>
               </li>
               <li className="flex items-center gap-3">

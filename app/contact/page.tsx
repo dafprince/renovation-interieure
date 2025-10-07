@@ -88,9 +88,9 @@ export default function ContactPage() {
                     <div>
                       <h3 className="font-semibold mb-1">Adresse</h3>
                       <p className="text-muted-foreground">
-                        123 Avenue de la Rénovation
+                        123 Rue d'Arras,
                         <br />
-                        75001 Paris, France
+                        59155 Faches-Thumesnil, France
                       </p>
                     </div>
                   </div>
@@ -101,7 +101,7 @@ export default function ContactPage() {
                     <div>
                       <h3 className="font-semibold mb-1">Téléphone</h3>
                       <a href="tel:+33123456789" className="text-muted-foreground hover:text-accent transition-colors">
-                        +33 1 23 45 67 89
+                        +33 60 44 21 828
                       </a>
                     </div>
                   </div>
