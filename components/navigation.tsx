@@ -40,7 +40,7 @@ export function Navigation() {
               <span className="text-accent font-serif text-xl font-bold">R</span>
             </div>
             <span className="font-serif text-xl font-semibold hidden sm:block text-accent-foreground">
-              Rénovation Premium
+              Ls Rénovation
             </span>
           </Link>
 
